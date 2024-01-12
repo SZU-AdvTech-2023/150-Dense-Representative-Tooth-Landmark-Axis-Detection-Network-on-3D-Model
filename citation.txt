@@ -1,0 +1,9 @@
+@article{REPO150,
+    author = "Wei, Guangshun and Cui, Zhiming and Zhu, Jie and Yang, Lei and Zhou, Yuanfeng and Singh, Pradeep and Gu, Min and Wang, Wenping",
+    journal = "Computer Aided Geometric Design",
+    pages = "102077",
+    publisher = "Elsevier",
+    title = "{Dense Representative Tooth Landmark/Axis Detection Network on 3D Model}",
+    volume = "94",
+    year = "2022"
+}
