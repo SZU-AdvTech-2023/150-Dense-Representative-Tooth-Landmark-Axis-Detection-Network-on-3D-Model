@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jianjian@172.31.226.91:204 key (3)" createEmptyFolders="true" confirmBeforeUploading="false" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="jianjian@172.31.226.91:204 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jianjian/pyy/PycharmProjects/teeth_landmark" local="$PROJECT_DIR$" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jianjian@172.31.226.91:204 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jianjian/pyy/PycharmProjects/teeth_landmark" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jianjian@172.31.226.91:204 key (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jianjian/pyy/PycharmProjects/teeth_landmark" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
